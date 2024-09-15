@@ -1,7 +1,7 @@
-void ft_putchar(char c);
+void	ft_putchar(char c);
 
-int main(void)
+int	main(void)
 {
-    ft_putchar('A');
-    return (0);
+	ft_putchar('A');
+	return (0);
 }
