@@ -5,17 +5,18 @@ void	ft_putchar(char c)
 	write(1, &c, 1);
 }
 
-void	print_combination(int *arr, int n)
+void	ft_print_combination(int *arr, int n)
 {
 	int	i;
 	int	is_last;
 
-	i = 0;
 	is_last = 1;
+
+	i = 0;
 	while (i < n)
 	{
 		ft_putchar(arr[i] + '0');
-		if (i != n - 1)
+		if (arr[i] != 9 - (n - 1 - i))
 		{
 			is_last = 0;
 		}
@@ -34,11 +35,12 @@ void	ft_combn_recursive(int *arr, int n, int depth, int start)
 
 	if (depth == n)
 	{
-		print_combination(arr, n);
+		ft_print_combination(arr, n);
 		return ;
 	}
+
 	i = start;
-	while (i <= 9)
+	while (i <= 9 - (n - depth - 1))
 	{
 		arr[depth] = i;
 		ft_combn_recursive(arr, n, depth + 1, i + 1);
