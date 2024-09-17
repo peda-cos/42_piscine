@@ -27,7 +27,3 @@ A [42 São Paulo](https://www.42sp.org.br/) é uma escola de programação inova
 ## Como Utilizar
 
 Sinta-se à vontade para explorar os códigos, talvez seja útil para futuros pisciners.
-
----
-
-**Nota:** Este repositório é uma iniciativa pessoal para consolidar e expandir meus conhecimentos em programação C adquiridos durante a piscina da 42 São Paulo.
