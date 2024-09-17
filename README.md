@@ -28,11 +28,6 @@ A [42 São Paulo](https://www.42sp.org.br/) é uma escola de programação inova
 
 Sinta-se à vontade para explorar os códigos, talvez seja útil para futuros pisciners.
 
-## Contato
-
-- [GitHub](https://github.com/SpukoBR)
-- [LinkedIn](https://www.linkedin.com/in/pedrocsmonteiro/)
-
 ---
 
 **Nota:** Este repositório é uma iniciativa pessoal para consolidar e expandir meus conhecimentos em programação C adquiridos durante a piscina da 42 São Paulo.
