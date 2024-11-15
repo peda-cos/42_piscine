@@ -27,3 +27,5 @@ A [42 São Paulo](https://www.42sp.org.br/) é uma escola de programação inova
 ## Como Utilizar
 
 Sinta-se à vontade para explorar os códigos, talvez seja útil para futuros pisciners.
+
+This work is published under the terms of **[42 Unlicense](https://github.com/gcamerli/42unlicense)**.
